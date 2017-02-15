@@ -1,6 +1,6 @@
 # Crunch
 Mandelbrot Set 
-Useing the Fractal and Attrator "Strange Attrator"
+Useing Fractal and Attrator "Strange Attrator"
 
 Constent Zoom out will cause walls to close in.
 
